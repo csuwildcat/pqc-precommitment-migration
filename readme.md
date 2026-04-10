@@ -24,6 +24,8 @@ Under current consensus, these `SLH-DSA (SPHINCS+)` slots are satisfied using no
 
 This document does not specify that future soft fork. It only specifies the current commitment pattern and the assumptions under which such an activation could later occur.
 
+> NOTE: the author could have missed something that invalidates this idea, so be kind if he turns out to be retarded.
+
 ## Scope And Assumptions
 
 This construction is intentionally narrow and depends on the following assumptions:
